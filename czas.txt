@@ -1,0 +1,13 @@
+1. utworzenie projektu (github)
+2. pobranie projektu (lokalnie)
+3. Architektura 3 warstwowej aplikacji do przetwarzania danych przestzrennych do 16:25
+4. Commit w visual studio code do 16:48
+5. pliki i foldery dla projektu - konfiguracja do 16:52
+6. inicjacja aplikacji reactJS + uruchomienie ()17:49
+uwagi: 
+6.1. działa z poziomu cmd po resecie komputera
+6.2. inicjacja aplikacji poleceniem npx create-react-app@latest frontend
+6.3. uruchomienie za pomocą npm start 
+
+
+7. Konfiguracja aplikacji Node lokalnie oraz konfiguracja kontenera dockerowego 
