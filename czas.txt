@@ -1,3 +1,5 @@
+Zajęcia nr 2 
+
 1. utworzenie projektu (github)
 2. pobranie projektu (lokalnie)
 3. Architektura 3 warstwowej aplikacji do przetwarzania danych przestzrennych do 16:25
@@ -9,5 +11,17 @@ uwagi:
 6.2. inicjacja aplikacji poleceniem npx create-react-app@latest frontend
 6.3. uruchomienie za pomocą npm start 
 
+7. Konfiguracja aplikacji Node lokalnie oraz konfiguracja kontenera dockerowego do 18:40
+8. Commit kodu i pull request dla projektu, projekt w github 18:48
 
-7. Konfiguracja aplikacji Node lokalnie oraz konfiguracja kontenera dockerowego 
+
+Zajęcia nr 3: 
+8:14
+
+1. uruchomienie środowiska developerskiego (obrazy docker) 8:25
+2.a Utworzenie pierwszego komponentu funkcyjnego podejście klasyczne
+2.b Utworzenie pierwszego komponentu funkcyjnego przy zastosowaniu snippet (rfce)
+
+Przerwa 8:57- 9:03
+
+3. Komponent renderujący listę przy użyciu map do 9:40
